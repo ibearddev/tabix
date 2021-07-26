@@ -1,47 +1,49 @@
 ![Tabix Logo](http://ui.tabix.io/assets/images/logo2.png?123)
 
 
-Open source simple business intelligence application and sql editor tool for Clickhouse.
+Опенсорсный простой веб-клиент для Clickhouse.
 ![Tabix](https://tabix.io/media/fullsceen.png)
 
-
-## Install
-
-Not need, open in browser http://ui.tabix.io/
-
-Alpha version : http://alpha.tabix.io
+Решение для доступа к кликхаусу QA team и др инженеров, которые не имеют желания использовать консоль, ну или любят UI ;)
 
 
-### If need install
+## Установка
 
-[Install to you host](https://tabix.io/doc/Install/)
+Можно не устанавливать, работает из браузера по урл http://ui.tabix.io/
 
-[Use with Docker](https://tabix.io/doc/Install/#variant-5-from-docker)
+Альфа : http://alpha.tabix.io
 
-## Documentation
+
+### Если нужна установка
+
+[На свой хост](https://tabix.io/doc/Install/)
+
+[Используя Docker](https://tabix.io/doc/Install/#variant-5-from-docker)
+
+## Документация
 
 https://tabix.io/doc/
 
 
-## Draw charts & map
+## Отрисовка графиков и диаграмм
 
 ![Tabix](https://tabix.io/anime/draws.gif?gigig)
 
 
-## Requirements
+## Рекомендации
 
 * Google Chrome version up 55 (chromium engine), not support FireFox & IE
 * Clickhouse server version up v1.1.54164
 * Not readonly CH user [note](https://tabix.io/doc/Requirements/#note)
 
-## Tabix repositories
+## Tabix репозиторий
 
 [Docs & articles](https://github.com/tabixio/tabix.docs)
 
 [Tabix.backend server](https://github.com/tabixio/tabix.backend)
 
 
-## Tabix changelog & news
+## Tabix changelog & новости
 
 [Tabix changelog & news in twitter](http://twitter.com/tabix_io)
 
